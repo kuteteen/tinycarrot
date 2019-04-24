@@ -1,2 +1,1 @@
-# tinycarrot
-Free in-app for everyone !
+This site was built using [GitHub Pages](https://pages.github.com/).
