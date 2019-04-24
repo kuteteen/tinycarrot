@@ -42,7 +42,7 @@
 
 * ### Quantumult
 
-  * Link tải ứng dụng: [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
+  * Link tải ứng dụng: [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8) (Appstore)
 [![](https://github.com/tinycarrot/tinycarrot/blob/master/Picture/Quantumult-preview.png?raw=true)](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
   * Hướng Dẫn:
     * Mở ___Quantumult___: ___```
