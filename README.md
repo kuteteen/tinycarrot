@@ -14,7 +14,17 @@
 ![𝗠𝗲𝗺𝗿𝗶𝘀𝗲](https://img.shields.io/badge/Memrise-Working-brightgreen.svg)
 ![𝗠𝗼𝗻𝗱𝗹𝘆](https://img.shields.io/badge/Mondly-Working-brightgreen.svg)
 
-## Thông Tin
-### Quantumult
+## Hướng Dẫn
+* ### SSL Profile
+  - Các bạn vào link này để cài đặt __SSL Profile__: [__Download SSL Profile__](https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/ssl-profile-2.pem)
+    > __Lưu ý: sử dụng trình duyệt Safari trên Ios hoặc copy link bên dưới vào trình duyệt Safari.__
 
-Link tải ứng dụng: [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
+    ```
+    https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/ssl-profile-2.pem
+    ```
+  
+
+* ### Quantumult
+
+  * Link tải ứng dụng: [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
+[![](https://github.com/tinycarrot/tinycarrot/blob/master/Picture/Quantumult-preview.png?raw=true)](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
