@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?charles serialisation-version='2.0' ?>
+<rewriteSet-array>
+  <rewriteSet>
+    <active>true</active>
+    <name>ELSA</name>
+    <hosts>
+      <locationPatterns>
+        <locationMatch>
+          <location>
+            <protocol>https</protocol>
+            <host>pool.elsanow.io</host>
+            <port>443</port>
+            <path>/*</path>
+          </location>
+          <enabled>true</enabled>
+        </locationMatch>
+      </locationPatterns>
+    </hosts>
+    <rules>
+      <rewriteRule>
+        <active>true</active>
+        <ruleType>7</ruleType>
+        <matchValue>&quot;subscriptions&quot;: []</matchValue>
+        <matchHeaderRegex>false</matchHeaderRegex>
+        <matchValueRegex>false</matchValueRegex>
+        <matchRequest>false</matchRequest>
+        <matchResponse>true</matchResponse>
+        <newValue>&quot;subscriptions&quot;: [{&quot;subscription&quot;: &quot;three_months_membership&quot;, &quot;created_at&quot;: &quot;20190422133035&quot;, &quot;days_to_end&quot;: 8, &quot;expire_at&quot;: &quot;20190430&quot;}]</newValue>
+        <newHeaderRegex>false</newHeaderRegex>
+        <newValueRegex>false</newValueRegex>
+        <matchWholeValue>false</matchWholeValue>
+        <caseSensitive>false</caseSensitive>
+        <replaceType>2</replaceType>
+      </rewriteRule>
+      <rewriteRule>
+        <active>false</active>
+        <ruleType>7</ruleType>
+        <matchValue>&quot;is_unlocked&quot;: false</matchValue>
+        <matchHeaderRegex>false</matchHeaderRegex>
+        <matchValueRegex>false</matchValueRegex>
+        <matchRequest>false</matchRequest>
+        <matchResponse>true</matchResponse>
+        <newValue>&quot;is_unlocked&quot;: true</newValue>
+        <newHeaderRegex>false</newHeaderRegex>
+        <newValueRegex>false</newValueRegex>
+        <matchWholeValue>false</matchWholeValue>
+        <caseSensitive>false</caseSensitive>
+        <replaceType>2</replaceType>
+      </rewriteRule>
+    </rules>
+  </rewriteSet>
+</rewriteSet-array>
