@@ -22,9 +22,31 @@
     ```
     https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/ssl-profile-2.pem
     ```
+    
+  - Hướng Dẫn Cài Đặt:
+    - Cài đặt chứng chỉ: __```
+           Setting > Profile Downloaded > Install > Install
+                           ```__
+    ![](https://github.com/tinycarrot/tinycarrot/blob/master/Picture/IMG_3807.JPG?raw=true)
+    
+    - Tin cậy chứng chỉ: ___```
+          Setting > General > About > Certificate Trust Setting > Charles Proxy CA > On
+                            ```___
+    ![](https://github.com/tinycarrot/tinycarrot/raw/master/Picture/IMG_3808.JPG)
+    
   
 
 * ### Quantumult
 
   * Link tải ứng dụng: [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
 [![](https://github.com/tinycarrot/tinycarrot/blob/master/Picture/Quantumult-preview.png?raw=true)](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
+  * Hướng Dẫn:
+    * Mở ___Quantumult___: ___```
+                    Settings > Download from ...
+                    ```___
+                    
+    * Copy đường dẫn bên dưới paste vào url trong ___Quantumult___: [___Quantumult Profile Config___](https://github.com/tinycarrot/tinycarrot/raw/master/Profile/quantumult_20190422.conf)             
+   
+    ```
+    https://github.com/tinycarrot/tinycarrot/raw/master/Profile/quantumult_20190422.conf
+    ```
