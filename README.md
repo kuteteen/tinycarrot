@@ -8,6 +8,7 @@
 
 
 ## Current App Status
+![DROPS](https://img.shields.io/badge/DROPS-Working-brightgreen.svg)
 ![CALM](https://img.shields.io/badge/CALM-Working-brightgreen.svg)
 ![ELSA](https://img.shields.io/badge/ELSA-Working-brightgreen.svg)
 ![VSCO](https://img.shields.io/badge/VSCO-Working-brightgreen.svg)
