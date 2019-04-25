@@ -4,7 +4,7 @@
 [![Server Status](https://img.shields.io/badge/Server%20Status-Online-brightgreen.svg)](https://github.com/tinycarrot/tinycarrot)
 ![Platform](https://img.shields.io/badge/platform-Iphone%20%7C%20Ipad-lightgrey.svg)
 ![App](https://img.shields.io/badge/VPN%20App-WeBlock%20%7C%20Quantumult-brightgreen.svg)
-![Version](https://img.shields.io/badge/Version-v1.0-orange.svg)
+![Version](https://img.shields.io/badge/Version-v1.1-orange.svg)
 
 
 ## Current App Status
@@ -19,6 +19,13 @@
 
 ## Version history
 
+//v1.1 ----------
+  - Update KineMaster.
+  25.04.2019
+  
+  
+//v1.0 ----------
+  - Realese app.
 
 ## Hướng Dẫn
 * ### SSL Profile
