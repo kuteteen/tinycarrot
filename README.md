@@ -8,6 +8,7 @@
 
 
 ## Current App Status
+![KineMaster](https://img.shields.io/badge/KineMaster-Working-brightgreen.svg)
 ![DROPS](https://img.shields.io/badge/DROPS-Working-brightgreen.svg)
 ![CALM](https://img.shields.io/badge/CALM-Working-brightgreen.svg)
 ![ELSA](https://img.shields.io/badge/ELSA-Working-brightgreen.svg)
