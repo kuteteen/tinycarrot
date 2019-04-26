@@ -1,0 +1,26 @@
+{
+	"data": {
+		"id": "2354993",
+		"type": "ios_subscriptions",
+		"attributes": {
+			"environment": "Production",
+			"expires_at": "2099-05-03T18:59:11.000Z",
+			"trial": true,
+			"product_type": "instasize_premium_plus_subscription",
+			"created_at": "2019-04-26T18:59:13.664Z",
+			"updated_at": "2019-04-26T18:59:23.144Z",
+			"status": "active",
+			"renewal_info": {
+				"auto_renew_product_type": "instasize_premium_plus_subscription",
+				"auto_renew": true
+			},
+			"updated_by": "validation",
+			"validated_on_request": true,
+			"payments_count": 0,
+			"pay_as_you_go": false,
+			"intro_price_expires_at": null,
+			"intro_offer_period": false,
+			"original_transaction_id": "540000371928348"
+		}
+	}
+}
