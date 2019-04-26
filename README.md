@@ -18,20 +18,6 @@
 ![𝗠𝗲𝗺𝗿𝗶𝘀𝗲](https://img.shields.io/badge/Memrise-Working-brightgreen.svg)
 ![𝗠𝗼𝗻𝗱𝗹𝘆](https://img.shields.io/badge/Mondly-Working-brightgreen.svg)
 
-## Version history
-
-//v1.2 ----------
-  - Update Instasize.
-  27.04.2019
-
-
-//v1.1 ----------
-  - Update KineMaster.
-  25.04.2019
-  
-  
-//v1.0 ----------
-  - Realese app.
 
 ## Hướng Dẫn
 * ### SSL Profile
@@ -70,3 +56,19 @@
     https://github.com/tinycarrot/tinycarrot/raw/master/Profile/quantumult_20190422.conf
     ```
     ![](https://github.com/tinycarrot/tinycarrot/raw/master/Picture/IMG_3814.JPG)
+
+
+## Version history
+
+//v1.2 ----------
+  - Update Instasize.
+  27.04.2019
+
+
+//v1.1 ----------
+  - Update KineMaster.
+  25.04.2019
+  
+  
+//v1.0 ----------
+  - Realese app.
