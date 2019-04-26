@@ -8,6 +8,7 @@
 
 
 ## Current App Status
+![InstaSize](https://img.shields.io/badge/InstaSize-Working-brightgreen.svg)
 ![KineMaster](https://img.shields.io/badge/KineMaster-Working-brightgreen.svg)
 ![DROPS](https://img.shields.io/badge/DROPS-Working-brightgreen.svg)
 ![CALM](https://img.shields.io/badge/CALM-Working-brightgreen.svg)
@@ -18,6 +19,11 @@
 ![𝗠𝗼𝗻𝗱𝗹𝘆](https://img.shields.io/badge/Mondly-Working-brightgreen.svg)
 
 ## Version history
+
+//v1.2 ----------
+  - Update Instasize.
+  27.04.2019
+
 
 //v1.1 ----------
   - Update KineMaster.
